@@ -10,6 +10,6 @@ This project requires Qt 5.4 and a fully compliant C++11 compiler
 
 #License
 
-MIT License
+[MIT License](http://opensource.org/licenses/MIT)
 
-To facilitate inter-thread communication, this also uses the CPPChannels project, which is also MIT licensed.
+To facilitate inter-thread communication, this also uses the [CPPChannels](https://github.com/ejmahler/CPPChannels) project, which is also MIT licensed.
