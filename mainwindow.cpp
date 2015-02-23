@@ -102,5 +102,5 @@ void MainWindow::on_actionLines_color_triggered()
 
 void MainWindow::on_actionAbout_me_triggered()
 {
-    QMessageBox::about(this, tr("About me"), tr("PLUkraine, github page: "));
+    QMessageBox::about(this, tr("About me"), tr("PLUkraine, github page: https://github.com/PLUkraine"));
 }
